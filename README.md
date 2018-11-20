@@ -2,7 +2,7 @@
 
 > Set up Windows 10 for software development
 
-- [Webpage](https://github.com/denisecase/windows-setup)
+- [Webpage](https://denisecase.github.io/windows-setup/)
 - [Source](https://github.com/denisecase/windows-setup)
 
 ## Learn about Developer Mode
