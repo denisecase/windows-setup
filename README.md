@@ -14,7 +14,7 @@
 1. In Windows go to Settings / Update & Security / For Developers / select “Developer mode”.
 2. Wait until the package finishes installing. 
 3. Scroll down to "For Developers" and ensure the following options are checked.
-4. "Change settings to show file extenstions"
+4. "Change settings to show file extensions"
 5. "Change settings to show hidden and system files"
 6. "Change settings to show full path in title bar"
 7. Scroll down to "PowerShell" and ensure the following option is checked.
