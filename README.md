@@ -14,11 +14,10 @@
 1. In Windows go to Settings / Update & Security / For Developers / select “Developer mode”.
 2. Wait until the package finishes installing. 
 3. Scroll down to "For Developers" and ensure the following options are checked.
-4. "Change settings to show file extensions"
-5. "Change settings to show hidden and system files"
-6. "Change settings to show full path in title bar"
-7. Scroll down to "PowerShell" and ensure the following option is checked.
-8. "Change execution policy to allow local PowerShell scripts to run without signing. Require signing for remote scripts."
+4. "Change settings to **show file extensions**"
+5. "Change settings to **show hidden and system files**"
+6. "Change settings to **show full path in title bar**"
+7. Scroll down to "PowerShell" and ensure the following option is checked: "Change execution policy to allow local PowerShell scripts to run without signing. Require signing for remote scripts."
 
 ## Learn about PowerShell
 
@@ -28,7 +27,7 @@ PowerShell allows us to type commands affecting our computer. It allows us to cr
 
 ## Add "Open PowerShell window here as administrator"
 
-Windows File Explorer, provides a context menu when you right-click in a folder.
+Windows File Explorer, provides a **context menu** when you right-click in a folder.
 Open File Explorer anywhere and try it.
 We want to add an item to this context menu so that when we click in a working folder, we can open a PowerShell window here - ready to execute commands in this specific location on our machine.
 
@@ -42,6 +41,7 @@ Update your folder context menu.
 
 ## Terms
 
+- Context menu
 - File name - the complete name + extension of the file OR the part that comes before the . and extension
 - File extension - the part at the end of the file that indicates its type (e.g. doc, xls, md, html)
 - Folder / directory - a place to store files on your computer
@@ -50,6 +50,7 @@ Update your folder context menu.
 - PowerShell - powerful command line interface (CLI) for Windows
 - System files - files used by Windows that should not be modified by users
 - Windows 10 - a popular operating system
+- Windows File Explorer
 
 ## Next Steps
 
