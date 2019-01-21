@@ -39,9 +39,18 @@ Update your folder context menu.
 2. Click Download in Step 2.
 3. Follow Steps 5-8.
 
+## PowerShell Privileges 
+
+By default, Windows will launch PowerShell without administrator privileges. 
+However, when using PowerShell to perform advanced functions such as installations, 
+you will need Admin priviledges which allow you to create, delete, and modify settings 
+and items such as files, folders, and environment variables. 
+Add this option to the context menu makes it easily accessible. 
+
 ## Terms
 
-- Context menu
+- Administrator - a user with elevated permissions including create, delete, and modify settings and items
+- Context menu - a pop-up menu, typically avaiable when right-clicking on an item
 - File name - the complete name + extension of the file OR the part that comes before the . and extension
 - File extension - the part at the end of the file that indicates its type (e.g. doc, xls, md, html)
 - Folder / directory - a place to store files on your computer
