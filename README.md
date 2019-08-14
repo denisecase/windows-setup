@@ -34,7 +34,7 @@ It allows us to create new files and folders, install programs, run programs, an
 
 Windows File Explorer provides a context menu when you right-click inside a folder.
 Open File Explorer, go to "My Documents" and try it.
-We want to add an item to this context menu so that when we click in a working folder, we can open a PowerShell window here - ready to execute commands. in this specific location on our machine.
+We want to add an item to this context menu so that when we click in a working folder, we can open a PowerShell window here - ready to execute commands in this specific location on our machine.
 
 - Read [How to Add "Open PowerShell window here as administrator" context menu in Windows 10](https://www.tenforums.com/tutorials/60177-add-open-powershell-window-here-administrator-windows-10-a.html)
 
