@@ -71,3 +71,7 @@ Add this option to the context menu makes it easily accessible.
 
 - See [Windows File Management](https://github.com/denisecase/windows-file-management)
 - See [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
+
+## See Also
+
+- [Setting Up for Professional Software Development](https://github.com/denisecase/pro-dev-list)
