@@ -16,7 +16,7 @@
 
 1. In Windows go to Settings / Update & Security / For Developers / select “Developer mode”.
 2. Wait until the package finishes installing.
-3. Scroll down to "For Developers" and verify the following options are checked. (If unchecked, check each of these.)
+3. Scroll down to "File Explorer" and verify the following options are checked. (If unchecked, check each of these.)
 4. "Change settings to show file extensions"
 5. "Change settings to show hidden and system files"
 6. "Change settings to show full path in title bar"
