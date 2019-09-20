@@ -67,7 +67,7 @@ Add this option to the context menu makes it easily accessible.
 - Windows 10 - a popular operating system
 - Windows File Explorer - a graphical interface to folders and files on Windows
 
-## Adding A little bit of Linux to your Windows System
+## Add Linux to your Windows System
 
 You can add Ubuntu or another Linux distribution to your Windows system in a couple easy steps.
 
