@@ -69,7 +69,7 @@ Add this option to the context menu makes it easily accessible.
 
 ## Adding A little bit of linux to your Windows System
 
-You can add Ubuntu or another linux distribution to your windows system in a couple easy steps
+You can add Ubuntu or another Linux distribution to your Windows system in a couple easy steps.
 
 Microsoft provides really good instructions for installation.
 
