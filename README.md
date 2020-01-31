@@ -13,7 +13,7 @@
 - See: [What Is “Developer Mode” in Windows 10?](https://www.howtogeek.com/292914/what-is-developer-mode-in-windows-10/)
 - Review the terms at the end of this document.
 
-## Enable Developer Mode in Windows 10
+## Task 1: Enable Developer Mode in Windows 10
 
 1. In Windows go to Settings / Update & Security / For Developers / select “Developer mode”. 
 2. Wait until the package finishes installing.
@@ -33,7 +33,7 @@ It allows us to create new files and folders, install programs, run programs, an
 
 - See: [Table of Basic PowerShell Commands](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/)
 
-## Add "Open PowerShell window here as administrator"
+## Task 2: Add "Open PowerShell window here as administrator"
 
 Windows File Explorer provides a context menu when you right-click inside a folder.
 Open File Explorer, go to "My Documents" and try it.
