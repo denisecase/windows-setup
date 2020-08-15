@@ -29,27 +29,29 @@
 PowerShell allows us to type commands affecting our computer.
 It allows us to create new files and folders, install programs, run programs, and more.
 
-## Task 2: Add "Open PowerShell window here as administrator"
-
-Windows File Explorer provides a context menu when you right-click inside a folder.
-Open File Explorer, go to "My Documents" and try it.
-We want to add an item to this context menu so that when we click in a working folder, we can open a PowerShell window here - ready to execute commands in this specific location on our machine.
-
-- Read [How to Add "Open PowerShell window here as administrator" context menu in Windows 10](https://www.tenforums.com/tutorials/60177-add-open-powershell-window-here-administrator-windows-10-a.html)
-
-Update your folder context menu:
-
-1. Open the link  [How to Add "Open PowerShell window here as administrator" context menu in Windows 10](https://www.tenforums.com/tutorials/60177-add-open-powershell-window-here-administrator-windows-10-a.html).
-2. Click Download in Step 2.
-3. Follow Steps 5-8.
-
 ## PowerShell Privileges
 
 By default, Windows will launch PowerShell without administrator privileges.
 However, when using PowerShell to perform advanced functions such as installations,
 you will need Admin priviledges which allow you to create, delete, and modify settings
 and items such as files, folders, and environment variables.
-Adding this option to the context menu makes it easily accessible.
+PowerShell is often used with software development projects.
+
+## Task 2: Add "Open PowerShell window here as administrator"
+
+Windows File Explorer provides a context menu when you right-click inside a folder.
+Open File Explorer, go to "My Documents" and try it.
+We want to add an item to this context menu so that when we click in a working folder, we can open a PowerShell Admin window here - ready to execute commands in this specific location on our machine.
+
+First, read [How to Add "Open PowerShell window here as administrator" context menu in Windows 10](https://www.tenforums.com/tutorials/60177-add-open-powershell-window-here-administrator-windows-10-a.html)
+
+Then, update your folder context menu:
+
+1. Scroll down on the page linked above. 
+2. Go to Step 2 and click Download.
+3. Follow Steps 5-9.
+
+Finally, verify. Open File Explorer, go to "My Documents" and right-click to see your new option.
 
 ## Know These Terms
 
