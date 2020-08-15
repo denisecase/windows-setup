@@ -29,8 +29,6 @@
 PowerShell allows us to type commands affecting our computer.
 It allows us to create new files and folders, install programs, run programs, and more.
 
-- See: [Table of Basic PowerShell Commands](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/)
-
 ## Task 2: Add "Open PowerShell window here as administrator"
 
 Windows File Explorer provides a context menu when you right-click inside a folder.
