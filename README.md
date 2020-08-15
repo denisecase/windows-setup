@@ -3,28 +3,26 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-> Configure Windows for software development - turn on developer mode and get PowerShell ready for projects
+> Configure Windows for software development
 
 - [Webpage](https://denisecase.github.io/windows-setup/)
 - [Source](https://github.com/denisecase/windows-setup)
 
-## Learn about Developer Mode
+## Task 1: Turn on Developer Settings
 
-- See: [What Is “Developer Mode” in Windows 10?](https://www.howtogeek.com/292914/what-is-developer-mode-in-windows-10/)
-- Review the terms at the end of this document.
-
-## Task 1: Enable Developer Mode in Windows 10
-
-1. In Windows go to Settings / Update & Security / For Developers / select “Developer mode”. 
-2. Wait until the package finishes installing.
-3. Scroll down to "File Explorer" and verify the following options are checked. (If unchecked, check each of these.)
-4. "Change settings to show file extensions"
-5. "Change settings to show hidden and system files"
-6. "Change settings to show full path in title bar"
-7. Click "Apply" if changes were needed.
-8. Scroll down to "PowerShell" and ensure the following option is checked.
-9. "Change execution policy to allow local PowerShell scripts to run without signing. Require signing for remote scripts."
-10. Click "Apply" if changes were needed.
+1. In Windows go to Settings / Update & Security / For Developers. 
+1. Scroll down to "File Explorer". Grey checks are enabled, blue checks are not yet enabled.
+1. Verify the following settings are checked:
+  - "Change settings to show file extensions"
+  - "Change settings to show hidden and system files"
+  - "Change settings to show full path in title bar"
+  
+1. Click "Apply". Verify the above settings now have grey checks.
+1. Scroll down to "PowerShell".
+1. Verify the following option is checked.
+  - "Change execution policy to allow local PowerShell scripts to run without signing. Require signing for remote scripts."
+  
+1. Click "Apply". Check should now be grey.
 
 ## Learn about PowerShell
 
@@ -55,7 +53,7 @@ you will need Admin priviledges which allow you to create, delete, and modify se
 and items such as files, folders, and environment variables.
 Adding this option to the context menu makes it easily accessible.
 
-## Terms
+## Know These Terms
 
 - Administrator - a user with elevated permissions including create, delete, and modify settings and items
 - Context menu - a pop-up menu, typically avaiable when right-clicking on an item
