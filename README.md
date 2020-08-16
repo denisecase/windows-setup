@@ -68,13 +68,6 @@ Finally, verify. Open File Explorer, go to "My Documents" and right-click to see
 - Windows 10 - a popular operating system
 - Windows File Explorer - a graphical interface to folders and files on Windows
 
-## Optional: Add Linux to your Windows System
-
-You can add Ubuntu or another Linux distribution to your Windows system in a couple easy steps.
-Microsoft provides instructions for installation.
-
-- See [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-
 ## Next Steps
 
 - See [Windows File Management](https://github.com/denisecase/windows-file-management)
