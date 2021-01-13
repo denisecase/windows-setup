@@ -13,15 +13,13 @@
 1. In Windows go to Settings / Update & Security / For Developers. 
 1. Scroll down to "File Explorer". Grey checks are enabled, blue checks are not yet enabled.
 1. Verify the following settings are checked:
-  - "Change settings to show file extensions"
-  - "Change settings to show hidden and system files"
-  - "Change settings to show full path in title bar"
-  
+    - "Change settings to show file extensions"
+    - "Change settings to show hidden and system files"
+    - "Change settings to show full path in title bar" 
 1. Click "Apply". Verify the above settings now have grey checks.
 1. Scroll down to "PowerShell".
 1. Verify the following option is checked.
-  - "Change execution policy to allow local PowerShell scripts to run without signing. Require signing for remote scripts."
-  
+    - "Change execution policy to allow local PowerShell scripts to run without signing. Require signing for remote scripts."
 1. Click "Apply". Check should now be grey.
 
 ## Learn about PowerShell
