@@ -11,14 +11,12 @@
 ## Task 1: Turn on Developer Settings
 
 1. In Windows go to Settings / Update & Security / For Developers. 
-1. Scroll down to "File Explorer". Grey checks are enabled, blue checks are not yet enabled.
-1. Verify the following settings are checked:
+1. Scroll down to "File Explorer". Grey checks are enabled, blue checks are not yet enabled. Verify the following settings are checked:
     - "Change settings to show file extensions"
     - "Change settings to show hidden and system files"
     - "Change settings to show full path in title bar" 
 1. Click "Apply". Verify the above settings now have grey checks.
-1. Scroll down to "PowerShell".
-1. Verify the following option is checked.
+1. Scroll down to "PowerShell". Verify the following option is checked.
     - "Change execution policy to allow local PowerShell scripts to run without signing. Require signing for remote scripts."
 1. Click "Apply". Check should now be grey.
 
@@ -49,7 +47,7 @@ Then, update your folder context menu:
 2. Go to Step 2 and click Download.
 3. Follow Steps 5-9.
 
-Finally, verify. Open File Explorer, go to "My Documents" and right-click to see your new option.
+Finally, verify. Open File Explorer, go to "Documents" and right-click on a folder. You should see the option to "Open PowerShell here as administrator". 
 
 ## Know These Terms
 
